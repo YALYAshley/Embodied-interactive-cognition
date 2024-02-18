@@ -35,15 +35,15 @@ We list key challenges from a wide span of candidate concerns, as well as trendi
 ### Survey
 <!-- <details><summary>(Click for details)</summary> -->
 
-- How should autonomous vehicles drive? Policy, methodological, and social considerations for designing a driver [[arXiv2023]](https://arxiv.org/abs/2306.16927)
+- How should autonomous vehicles drive? Policy, methodological, and social considerations for designing a driver [[Humanities and social sciences communications, 2022]](https://www.nature.com/articles/s41599-022-01286-2)
 
-- Self-driving cars: A city perspective [[TIV2023]](https://ieeexplore.ieee.org/abstract/document/10258330)
+- Self-driving cars: A city perspective [[Science robotics, 2019]](https://www.science.org/doi/full/10.1126/scirobotics.aav9843)
 
-- Autonomous vehicles: An imperfect path to saving Amillions of lives [[arXiv2023]](https://arxiv.org/abs/2308.05731)
+- Autonomous vehicles: An imperfect path to saving Amillions of lives [[Science robotics, 2019]](https://www.science.org/doi/full/10.1126/scirobotics.aaw8703)
 
-- Computing Systems for Autonomous Driving: State of the Art and Challenges
+- Computing Systems for Autonomous Driving: State of the Art and Challenges[[IEEE Internet of Things Journal, 2020]](https://ieeexplore.ieee.org/abstract/document/9288755)
   
-- Social Interactions for Autonomous Driving: A Review and Perspectives
+- Social Interactions for Autonomous Driving: A Review and Perspectives [[Foundations and Trends® in Robotics, 2022]](https://www.nowpublishers.com/article/DownloadSummary/ROB-078)
 
 <!-- </details> -->
 
@@ -53,7 +53,7 @@ We list key challenges from a wide span of candidate concerns, as well as trendi
 
 <!-- <details><summary>(Click for details)</summary> -->
 
-- Planning-oriented Autonomous Driving
+- Planning-oriented Autonomous Driving[[CVPR, 2023]](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_Planning-Oriented_Autonomous_Driving_CVPR_2023_paper.pdf)
 
 <!-- </details> -->
 
@@ -65,8 +65,9 @@ We list key challenges from a wide span of candidate concerns, as well as trendi
 
 <!-- <details><summary>(Click for details)</summary> -->
 
-- Seek opportunities for embodied and tangible interaction [[TIV2023]](https://ieeexplore.ieee.org/abstract/document/10258330)
-- Introduction to the Special Issue on the Theory and Practice of Embodied Interaction in HCI and Interaction Design
+- Seek opportunities for embodied and tangible interaction 
+  
+- Introduction to the Special Issue on the Theory and Practice of Embodied Interaction in HCI and Interaction Design[[ACM Transactions on Computer-Human Interaction (TOCHI), 2013]](https://www.researchgate.net/profile/Alissa-Antle/publication/262176023_Introduction_to_the_Special_Issue_on_the_Theory_and_Practice_of_Embodied_Interaction_in_HCI_and_Interaction_Design/links/54e5139a0cf29865c335fa74/Introduction-to-the-Special-Issue-on-the-Theory-and-Practice-of-Embodied-Interaction-in-HCI-and-Interaction-Design.pdf)
 
 <!-- </details> -->
 
@@ -76,8 +77,10 @@ We list key challenges from a wide span of candidate concerns, as well as trendi
 
 <!-- <details><summary>(Click for details)</summary> -->
 
-- Embodied intelligence via learning and evolution [[TIV2023]](https://ieeexplore.ieee.org/abstract/document/10258330)
+- Embodied intelligence via learning and evolution [[]](https://ieeexplore.ieee.org/abstract/document/10258330)
+  
 - A concise guide to modelling the physics of embodied intelligence in soft robotics
+  
 - Self-Organization, Embodiment, and Biologically Inspired Robotics
 
 <!-- </details> -->
@@ -90,11 +93,11 @@ We list key challenges from a wide span of candidate concerns, as well as trendi
 
 <!-- <details><summary>(Click for details)</summary> -->
 
-- Human–Vehicle Cooperation in Automated Driving: A Multidisciplinary Review and Appraisal [[arXiv2023]](https://arxiv.org/abs/2306.16927)
+- Human–Vehicle Cooperation in Automated Driving: A Multidisciplinary Review and Appraisal 
 
-- "What Makes a Cooperative Driver?” Identifying parameters of implicit and explicit forms of communication in a lane change scenario [[TIV2023]](https://ieeexplore.ieee.org/abstract/document/10258330)
-
-- Parallel testing of vehicle intelligence via virtual-real interaction [[arXiv2023]](https://arxiv.org/abs/2308.05731)
+- "What Makes a Cooperative Driver?” Identifying parameters of implicit and explicit forms of communication in a lane change scenario
+  
+- Parallel testing of vehicle intelligence via virtual-real interaction 
 
 <!-- </details> -->
 
@@ -104,7 +107,7 @@ We list key challenges from a wide span of candidate concerns, as well as trendi
 
 <!-- <details><summary>(Click for details)</summary> -->
 
-- Online legal driving behavior monitoring for self-driving vehicles [[arXiv2023]](https://arxiv.org/abs/2306.16927)
+- Online legal driving behavior monitoring for self-driving vehicles 
 
 <!-- </details> -->
 
@@ -114,7 +117,7 @@ We list key challenges from a wide span of candidate concerns, as well as trendi
 
 <!-- <details><summary>(Click for details)</summary> -->
 
-- A meta-analysis on the effectiveness of anthropomorphism in human-robot interaction [[TIV2023]](https://ieeexplore.ieee.org/abstract/document/10258330)
+- A meta-analysis on the effectiveness of anthropomorphism in human-robot interaction 
 
 <!-- </details> -->
 
