@@ -11,6 +11,9 @@
 ## Table of Contents
 
 - [Survey and Similarity framework](#survey-and-similarity-framework)
+- - [Human-vehicle interaction](#human-vehicle-interaction)
+- - [Vehicle-vehicle interaction](#vehicle-vehicle-interaction)
+- - [Human-robot interaction](#human-robot-interaction)
 - [Embodied](#embodied)
 - [Interactive or Cognitive](#interactive-or-cognitive)
 - [Self-driving](#self-driving)
@@ -19,24 +22,39 @@
 
 ## Survey and Similarity framework
 
-More details can be found in our survey paper.
+We list key challenges from a wide span of candidate concerns, as well as trending methodologies.
 
-> [**End-to-end Autonomous Driving: Challenges and Frontiers**](https://arxiv.org/abs/2306.16927)
->
-> [Li Chen](https://scholar.google.com/citations?user=ulZxvY0AAAAJ&hl=en&authuser=1)<sup>1</sup>, [Penghao Wu](https://scholar.google.com/citations?user=9mssd5EAAAAJ&hl=en)<sup>1</sup>, [Kashyap Chitta](https://kashyap7x.github.io/)<sup>2,3</sup>, [Bernhard Jaeger](https://kait0.github.io/)<sup>2,3</sup>, [Andreas Geiger](https://www.cvlibs.net/)<sup>2,3</sup>, and [Hongyang Li](https://lihongyang.info/)<sup>1,4</sup>
-> 
-> <sup>1</sup> Shanghai AI Lab, <sup>2</sup> University of Tübingen, <sup>3</sup> Tübingen AI Center, <sup>4</sup> Shanghai Jiao Tong University
->
+### Human-vehicle interaction
 
-<br/>
+<!-- <details><summary>(Click for details)</summary> -->
 
-![](assets/overview.jpg)
+- Human–Vehicle Cooperation in Automated Driving: A Multidisciplinary Review and Appraisal [[arXiv2023]](https://arxiv.org/abs/2306.16927)
 
-<br/>
+- "What Makes a Cooperative Driver?” Identifying parameters of implicit and explicit forms of communication in a lane change scenario [[TIV2023]](https://ieeexplore.ieee.org/abstract/document/10258330)
 
-``
-If you find some useful related materials, shoot us an email or simply open a PR!
-``
+- Parallel testing of vehicle intelligence via virtual-real interaction [[arXiv2023]](https://arxiv.org/abs/2308.05731)
+
+<!-- </details> -->
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+### Vehicle-vehicle interaction
+
+<!-- <details><summary>(Click for details)</summary> -->
+
+- Online legal driving behavior monitoring for self-driving vehicles [[arXiv2023]](https://arxiv.org/abs/2306.16927)
+
+<!-- </details> -->
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+### Human-robot interaction
+
+<!-- <details><summary>(Click for details)</summary> -->
+
+- A meta-analysis on the effectiveness of anthropomorphism in human-robot interaction [[TIV2023]](https://ieeexplore.ieee.org/abstract/document/10258330)
+
+<!-- </details> -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
