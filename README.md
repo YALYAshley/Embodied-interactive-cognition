@@ -118,6 +118,50 @@ We list key challenges from a wide span of candidate concerns, as well as trendi
 
 ## Self-driving
 
+### Cross-modal perception
+
+<!-- <details><summary>(Click for details)</summary> -->
+
+- TOFG: A Unified and Fine-Grained Environment Representation in Autonomous Driving
+
+<!-- </details> -->
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+### Hypergraph learning
+
+<!-- <details><summary>(Click for details)</summary> -->
+
+- Hypergraph Learning: Methods and Practices
+
+- HGNN+: General Hypergraph Neural Networks
+
+<!-- </details> -->
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+### Large language models
+
+<!-- <details><summary>(Click for details)</summary> -->
+
+- Language Models are Few-Shot Learners
+
+- A Language Agent for Autonomous Driving
+
+- Experimental evidence on the productivity effects of generative artificial intelligence
+
+<!-- </details> -->
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+### Transformer
+
+<!-- <details><summary>(Click for details)</summary> -->
+
+- Attention Is All You Need
+
+<!-- </details> -->
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Datasets
