@@ -21,8 +21,12 @@
 - - [Vehicle-vehicle interaction](#vehicle-vehicle-interaction)
 - - [Human-robot interaction](#human-robot-interaction)
 - [Self-driving](#self-driving)
+- - [Cross-modal perception](#cross-modal-perception)
+- - [Hypergraph learning](#hypergraph-learning)
+- - [Large language model](#large-language-model)
 - [Datasets](#datasets)
-- [Others](#others) 
+- [Others](#others)
+- - [Transformer](#transformer)
 
 ## Survey and similarity framework
 
@@ -154,6 +158,13 @@ We list key challenges from a wide span of candidate concerns, as well as trendi
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Datasets
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Others
+
 ### Transformer
 
 <!-- <details><summary>(Click for details)</summary> -->
@@ -164,13 +175,3 @@ We list key challenges from a wide span of candidate concerns, as well as trendi
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Datasets
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## Others
-
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
