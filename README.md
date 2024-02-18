@@ -3,7 +3,7 @@
 
 # Embodied-interactive-cognition
 
-> **This repo is all you need for end-to-end autonomous driving research.** We present awesome talks, comprehensive paper collections, benchmarks, and challenges.
+> **This repo is all you need for embodied interactive cognition research.** We present awesome talks, comprehensive paper collections, benchmarks, and challenges.
 
 <!-- ![](https://img.shields.io/badge/Record-137-673ab7.svg)
 ![](https://img.shields.io/badge/License-MIT-lightgrey.svg) -->
