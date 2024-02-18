@@ -10,20 +10,16 @@
 
 ## Table of Contents
 
-- [At a Glance](#at-a-glance)
-- [Learning Materials for Beginners](#learning-materials-for-beginners)
-- [Workshops and Talks](#workshops-and-talks)
-- [Paper Collection](#paper-collection)
-- [Benchmarks and Datasets](#benchmarks-and-datasets)
-- [Competitions / Challenges](#competitions--challenges) 
-- [Contributing](#contributing)
-- [License](#license)
-- [Citation](#citation)
-- [Contact](#contact)
+- [Survey and Similarity framework](#survey-and-similarity-framework)
+- [Embodied](#embodied)
+- [Interactive or Cognitive](#interactive-or-cognitive)
+- [Self-driving](#self-driving)
+- [Datasets](#datasets)
+- [Others](#others) 
 
-## At a Glance
+## Survey and Similarity framework
 
-The autonomous driving community has witnessed a rapid growth in approaches that embrace an end-to-end algorithm framework, utilizing raw sensor input to generate vehicle motion plans, instead of concentrating on individual tasks such as detection and motion prediction. In this survey, we provide a comprehensive analysis of more than 250 papers on the motivation, roadmap, methodology, challenges, and future trends in end-to-end autonomous driving. More details can be found in our survey paper.
+More details can be found in our survey paper.
 
 > [**End-to-end Autonomous Driving: Challenges and Frontiers**](https://arxiv.org/abs/2306.16927)
 >
@@ -45,7 +41,7 @@ If you find some useful related materials, shoot us an email or simply open a PR
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-## Learning Materials for Beginners
+## Embodied
   
 **Online Courses**
 - [Lecture: Self-Driving Cars](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/), Andreas Geiger, University of Tübingen, Germany
@@ -62,7 +58,7 @@ If you find some useful related materials, shoot us an email or simply open a PR
 
 <p align="right">(<a href="#top">back to top</a>)</p>
   
-## Workshops and Talks
+## Interactive or Cognitive
 
 **Workshops**
 - [CVPR 2023] [Workshop on End-to-end Autonomous Driving](https://opendrivelab.com/e2ead/cvpr23.html)
@@ -88,7 +84,7 @@ If you find some useful related materials, shoot us an email or simply open a PR
   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Paper Collection
+## Self-driving
 We list key challenges from a wide span of candidate concerns, as well as trending methodologies. Please refer to [this page](./papers.md) for the full list, and the [survey paper](https://arxiv.org/abs/2306.16927) for detailed discussions.
 
 - [Survey](./papers.md#survey)
@@ -122,7 +118,7 @@ We list key challenges from a wide span of candidate concerns, as well as trendi
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Benchmarks and Datasets
+## Datasets
 
 **Closed-loop**
 - [CARLA](https://leaderboard.carla.org/leaderboard/)
@@ -143,7 +139,7 @@ We list key challenges from a wide span of candidate concerns, as well as trendi
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Competitions / Challenges
+## Others
 
 - [nuPlan planning](https://opendrivelab.com/AD23Challenge.html#nuplan_planning), Workshop on End-to-end Autonomous Driving, CVPR 2023
 - [CARLA Autonomous Driving Challenge 2022](https://ml4ad.github.io/#challenge), Machine Learning for Autonomous Driving, NeurIPS 2022
@@ -151,36 +147,5 @@ We list key challenges from a wide span of candidate concerns, as well as trendi
 - [CARLA Autonomous Driving Challenge 2020](https://ml4ad.github.io/2020/#challenge), Machine Learning for Autonomous Driving, NeurIPS 2020
 - [Learn-to-Race Autonomous Racing Virtual Challenge](https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge), 2022
 - [INDY Autonomous Challenge](https://www.indyautonomouschallenge.com/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-  
-## Contributing
-Thank you for all your contributions. Please make sure to read the [contributing guide](./CONTRIBUTING.md) before you make a pull request.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## License
-End-to-end Autonomous Driving is released under the [MIT license](./LICENSE).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## Citation
-If you find this project useful in your research, please consider citing:
-```BibTeX
-@article{chen2023e2esurvey,
-  title={End-to-end Autonomous Driving: Challenges and Frontiers},
-  author={Chen, Li and Wu, Penghao and Chitta, Kashyap and Jaeger, Bernhard and Geiger, Andreas and Li, Hongyang},
-  journal={arXiv},
-  volume={2306.16927},
-  year={2023}
-}
-```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## Contact
-Primary contact: `lihongyang@pjlab.org.cn`. You can also contact: `lichen@pjlab.org.cn`.
-
-Join [Slack](https://join.slack.com/t/opendrivelab/shared_invite/zt-1rcp42b35-Wc5I0MhUrahlM5qDeJrVqQ) to chat with the commuty! Slack channel: `#e2ead`.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
