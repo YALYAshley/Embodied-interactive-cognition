@@ -20,6 +20,11 @@
 - - [Human-vehicle interaction](#human-vehicle-interaction)
 - - [Vehicle-vehicle interaction](#vehicle-vehicle-interaction)
 - - [Human-robot interaction](#human-robot-interaction)
+- - [Interaction framework](#interaction-framework)
+- - - [Co-leader planning](#co-leader-planning)
+- - - [Human leader](#human-leader)
+- - - [Joint planning](#joint-planning)
+- - - [Robot leader](#robot-leader)
 - [Self-driving](#self-driving)
 - - [Cross-modal perception](#cross-modal-perception)
 - - [Hypergraph learning](#hypergraph-learning)
@@ -121,6 +126,53 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+### Interaction framework
+
+#### Co-leader planning
+
+** This approach plans a policy modelled to both influence and be influenced by the stochastic behavior of the human.
+
+<!-- <details><summary>(Click for details)</summary> -->
+
+- Contingencies from Observations Tractable Contingency planning with learned behavior models[[ICRA, 2021]](https://arxiv.org/pdf/2104.10558)
+
+<!-- </details> -->
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+#### Human leader
+
+** The plan is based on the forecasted behavior of SVs.
+
+<!-- <details><summary>(Click for details)</summary> -->
+
+
+<!-- </details> -->
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+#### Joint leader
+
+** Agents notice each other and global optimization.
+
+<!-- <details><summary>(Click for details)</summary> -->
+
+
+<!-- </details> -->
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+#### Robot leader
+
+** Predictions of other humans (pedestrians and drivers) are based on the robot's action
+
+<!-- <details><summary>(Click for details)</summary> -->
+
+
+<!-- </details> -->
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Self-driving
 
 ### Cross-modal perception
@@ -175,4 +227,14 @@
 <!-- </details> -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- <details><summary>(Click for details)</summary> -->
+
+- Metacognition ideas and insights from neuro- and educational sciences[[Science of Learning, 2021]](https://www.nature.com/articles/s41539-021-00089-5)
+
+<!-- </details> -->
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
 
