@@ -32,6 +32,7 @@
 - [Datasets](#datasets)
 - [Others](#others)
 - - [Transformer](#transformer)
+- - [Cognition](#cognition)
 
 ## Survey and similarity framework
 
@@ -227,6 +228,8 @@
 <!-- </details> -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+### Cognition
 
 <!-- <details><summary>(Click for details)</summary> -->
 
