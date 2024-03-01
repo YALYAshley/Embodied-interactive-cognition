@@ -112,7 +112,6 @@
 <!-- <details><summary>(Click for details)</summary> -->
 
 - Online legal driving behavior monitoring for self-driving vehicles [[Nature communications, 2024]](https://www.nature.com/articles/s41467-024-44694-5)
-- Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving[[CVPR, 2024]](https://arxiv.org/pdf/2311.17918.pdf)
 
 <!-- </details> -->
 
@@ -159,6 +158,7 @@
 
 <!-- <details><summary>(Click for details)</summary> -->
 
+- Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving[[CVPR, 2024]](https://arxiv.org/pdf/2311.17918.pdf)【Vehicle-environment interaction】
 
 <!-- </details> -->
 
