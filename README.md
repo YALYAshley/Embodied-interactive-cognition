@@ -208,6 +208,8 @@
 - A Language Agent for Autonomous Driving[[arXiv preprint arXiv:2311.10813, 2023]](https://arxiv.org/pdf/2311.10813)
 
 - Experimental evidence on the productivity effects of generative artificial intelligence[[SSRN 4375283, 2023]](https://economics.mit.edu/sites/default/files/inline-files/Noy_Zhang_1_0.pdf)
+  
+- DRIVEVLM: The Convergence of Autonomous Driving and Large Vision-Language Models[[arXiv preprint arXiv: 2402.12289]](https://arxiv.org/pdf/2402.12289.pdf)(https://tsinghua-mars-lab.github.io/DriveVLM/)
 
 <!-- </details> -->
 
